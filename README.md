@@ -5,9 +5,8 @@ It is a life facilitator android application that is using the bluetooth feature
 This project was created in cooperation with Android Studio and Visual Studio Code. Application part of the project is written in Java language. Restful API was built by Node.js Express and MongoDB and written in JavaScript. The data contained in the MongoDB Atlas database was created and organized in JSON format. After the server design and restoring database were finished, the local server deployed with Heroku.
 
 
-
-
-
 <p align="center">
-  <src="https://user-images.githubusercontent.com/56837694/130437075-beb98391-8d61-483c-b949-27bdc40071c8.mp4">
+
+  <img src="https://user-images.githubusercontent.com/56837694/130438424-faf0ca37-6a21-4e52-8833-8ed556e46ea8.gif">
+
 </p>
