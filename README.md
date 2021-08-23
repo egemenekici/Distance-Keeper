@@ -9,5 +9,5 @@ This project was created in cooperation with Android Studio and Visual Studio Co
 
 
 <p align="center">
-  <mp4 src="https://user-images.githubusercontent.com/56837694/130437075-beb98391-8d61-483c-b949-27bdc40071c8.mp4">
+  <src="https://user-images.githubusercontent.com/56837694/130437075-beb98391-8d61-483c-b949-27bdc40071c8.mp4">
 </p>
