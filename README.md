@@ -10,3 +10,11 @@ This project was created in cooperation with Android Studio and Visual Studio Co
   <img width="300" src="https://user-images.githubusercontent.com/56837694/130438424-faf0ca37-6a21-4e52-8833-8ed556e46ea8.gif">
 
 </p>
+
+# Working Principle
+
+<p align="center">
+
+  <img width="300" src="https://user-images.githubusercontent.com/56837694/132693041-08b1a60e-fef6-4965-97a3-4125ac2defd0.png">
+
+</p>
