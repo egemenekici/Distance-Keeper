@@ -15,6 +15,6 @@ This project was created in cooperation with Android Studio and Visual Studio Co
 
 <p align="center">
 
-  <img width="300" src="https://user-images.githubusercontent.com/56837694/132693041-08b1a60e-fef6-4965-97a3-4125ac2defd0.png">
+  <img src="https://user-images.githubusercontent.com/56837694/132693041-08b1a60e-fef6-4965-97a3-4125ac2defd0.png">
 
 </p>
